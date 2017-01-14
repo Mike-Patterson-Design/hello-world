@@ -16,7 +16,7 @@
 </head>
 
 <body>
-this is the index file <?php echo "test"; ?>
+this is the index file <?php echo "test change to readme edit"; ?>
   <script src="js/scripts.js"></script>
 </body>
 </html>
