@@ -16,7 +16,7 @@
 </head>
 
 <body>
-this is the index file <?php echo "test change to readme edit"; ?>
+this is the index file <?php echo "test change to readme edit"; ?> not sure why this is shown
   <script src="js/scripts.js"></script>
 </body>
 </html>
