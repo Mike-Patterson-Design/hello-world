@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/c/wamp64/www/hello-world"
+		}
+	],
+	"settings": {
+		"sublime-view-in-browser": {
+			"baseUrl": "http://localhost/hello-world",
+			"basePath": "C:\\wamp64\\www\\hello-world"
+		}
+	}
+}
