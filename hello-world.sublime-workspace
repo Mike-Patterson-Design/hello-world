@@ -3,15 +3,22 @@
 	{
 		"selected_items":
 		[
+			[
+				"w",
+				"wamp64"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"contents": "*dwsync.xml\n",
+			"file": "/c/wamp64/www/hello-world/.gitignore",
+			"file_size": 13,
+			"file_write_time": 131288883070174696,
 			"settings":
 			{
-				"buffer_size": 502,
+				"buffer_size": 12,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -66,10 +73,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/hello-world"
+		"/c/wamp64/www/hello-world",
+		"/c/wamp64/www/hello-world/public_html"
 	],
 	"file_history":
 	[
+		"/c/wamp64/www/hello-world/.gitignore",
+		"/C/wamp64/www/hello-world/public_html/test.php",
+		"/c/wamp64/www/hello-world/public_html/index.php",
+		"/c/wamp64/www/hello-world/index.php",
+		"/c/wamp64/www/hello-world/index1.php",
+		"/c/wamp64/www/hello-world/assets/script/test.js",
+		"/C/wamp64/www/hello-world/assets/script/test.js",
+		"/c/wamp64/www/hello-world/hello-world.sublime-project",
+		"/C/wamp64/www/hello-world/index.php",
+		"/C/wamp64/www/hello-world/hello-world.sublime-project",
 		"/C/wamp64/www/my-site/test.php",
 		"/C/Users/Mike Patterson/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Mike Patterson/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
@@ -113,50 +131,34 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "/c/wamp64/www/hello-world/.gitignore",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 502,
+						"buffer_size": 12,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								494,
-								494
+								12,
+								12
 							]
 						],
 						"settings":
 						{
-							"auto_complete": false,
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										489,
-										493
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										396,
-										400
-									]
 								},
 								"unmatched":
 								{
@@ -220,7 +222,7 @@
 								"bh_unmatched_close",
 								"bh_unmatched_content"
 							],
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -238,7 +240,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 55.0
 	},
 	"layout":
 	{
@@ -280,6 +282,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"hello-world.sublime-project"
+			]
 		],
 		"width": 0.0
 	},
@@ -309,7 +315,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 243.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
